@@ -97,4 +97,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:checklf/checkIf.github.io.git
-  branch : master  
+  branch : public 
